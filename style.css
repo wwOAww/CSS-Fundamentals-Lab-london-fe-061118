@@ -27,8 +27,11 @@ figcaption {margin-left: 50; font-size: 20px}
 
 #featured-property{width: 800px;}
 
-#details{
-  display:block;
+#details {  
+  display:block;}
+
+#details div{
+  float: left;
   width: 25%; background-color:red;}
   
 
