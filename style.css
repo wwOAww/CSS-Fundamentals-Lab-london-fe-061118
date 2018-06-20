@@ -27,5 +27,7 @@ figcaption {margin-left: 50; font-size: 20px}
 
 #featured-property{width: 800px;}
 
-#details{display:block;}
+#details{
+  width: 25%;}
+  
 
